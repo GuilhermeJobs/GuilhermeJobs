@@ -1,5 +1,5 @@
 ### Olá, eu sou o Guilherme
-#### Seja bem vindo(a)
+#### Seja bem vindo(a) ao meu repositório
 
 <div>
   <a href="https://github.com/GuilhermeJobs">
